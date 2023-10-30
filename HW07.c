@@ -12,7 +12,6 @@ int main() {
         F = (C * 9 / 5) + 32;
         printf("F: %.2lf\n", F);
     }
-
     return 0;
 }
 
